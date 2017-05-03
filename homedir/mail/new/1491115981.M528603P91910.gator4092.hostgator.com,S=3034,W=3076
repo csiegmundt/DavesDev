@@ -1,0 +1,42 @@
+Return-Path: <csiegmundt@gator4092.hostgator.com>
+Delivered-To: csiegmundt@gator4092.hostgator.com
+Received: from gator4092.hostgator.com
+	by gator4092.hostgator.com (Dovecot) with LMTP id GTMiH82f4FgGZwEA6TCDZw
+	for <csiegmundt@gator4092.hostgator.com>; Sun, 02 Apr 2017 01:53:01 -0500
+Return-path: <csiegmundt@gator4092.hostgator.com>
+Envelope-to: csiegmundt@gator4092.hostgator.com
+Delivery-date: Sun, 02 Apr 2017 01:53:01 -0500
+Received: from csiegmundt by gator4092.hostgator.com with local (Exim 4.87)
+	(envelope-from <csiegmundt@gator4092.hostgator.com>)
+	id 1cuZNl-000WPj-Cd
+	for csiegmundt@gator4092.hostgator.com; Sun, 02 Apr 2017 01:53:01 -0500
+From: csiegmundt@gator4092.hostgator.com (Cron Daemon)
+To: csiegmundt@gator4092.hostgator.com
+Subject: Cron <csiegmundt@gator4092> /usr/local/bin/perl /usr/local/cpanel/3rdparty/quickinstall/scripts/checkupdates.pl
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+Precedence: bulk
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home3/csiegmundt>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=csiegmundt>
+X-Cron-Env: <USER=csiegmundt>
+Message-Id: <E1cuZNl-000WPj-Cd@gator4092.hostgator.com>
+Date: Sun, 02 Apr 2017 01:53:01 -0500
+
+Can't locate Umask/Local.pm in @INC (@INC contains: /usr/local/cpanel /usr/local/lib/perl5/5.8.8/x86_64-linux /usr/local/lib/perl5/5.8.8 /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux /usr/local/lib/perl5/site_perl/5.8.8 /usr/local/lib/perl5/site_perl . /usr/local/lib/perl5/5.8.8/x86_64-linux /usr/local/lib/perl5/5.8.8 /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux /usr/local/lib/perl5/site_perl/5.8.8 /usr/local/lib/perl5/site_perl .) at /usr/local/cpanel/Cpanel/Mkdir.pm line 10.
+BEGIN failed--compilation aborted at /usr/local/cpanel/Cpanel/Mkdir.pm line 10.
+Compilation failed in require at /usr/local/cpanel/Cpanel/CustInfo/Util.pm line 10.
+BEGIN failed--compilation aborted at /usr/local/cpanel/Cpanel/CustInfo/Util.pm line 10.
+Compilation failed in require at /usr/local/cpanel/Cpanel/CustInfo/Email.pm line 12.
+BEGIN failed--compilation aborted at /usr/local/cpanel/Cpanel/CustInfo/Email.pm line 12.
+Compilation failed in require at /usr/local/cpanel/Cpanel/CustInfo/Save.pm line 11.
+BEGIN failed--compilation aborted at /usr/local/cpanel/Cpanel/CustInfo/Save.pm line 11.
+Compilation failed in require at /usr/local/cpanel/Cpanel/ContactInfo/Sync.pm line 18.
+BEGIN failed--compilation aborted at /usr/local/cpanel/Cpanel/ContactInfo/Sync.pm line 18.
+Compilation failed in require at /usr/local/cpanel/Cpanel/ContactInfo.pm line 16.
+BEGIN failed--compilation aborted at /usr/local/cpanel/Cpanel/ContactInfo.pm line 16.
+Compilation failed in require at /usr/local/cpanel/Cpanel/QuickInstall.pm line 25.
+BEGIN failed--compilation aborted at /usr/local/cpanel/Cpanel/QuickInstall.pm line 25.
+Compilation failed in require at /usr/local/cpanel/3rdparty/quickinstall/scripts/checkupdates.pl line 8.
+BEGIN failed--compilation aborted at /usr/local/cpanel/3rdparty/quickinstall/scripts/checkupdates.pl line 8.

@@ -1,0 +1,4 @@
+53 1 * * * /usr/local/bin/perl /usr/local/cpanel/3rdparty/quickinstall/scripts/checkupdates.pl
+
+*/15 * * * * cd /home3/csiegmundt/public_html/sugar; php -f cron.php > /dev/null 2>&1
+

@@ -1,0 +1,324 @@
+# Webalizer V2.23-05 Incremental Data - 05/02/2017 01:00:40
+2017 5 2 1 0 40
+152 105 17 42 16 17 11100166 62 20 0
+3 3 92 1 2
+144 97 10818528 16 55 17
+8 8 281638 3 7 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+6 6 181577 4
+4 4 120702 3
+1 1 61427 1
+7 7 2234220 1
+2 2 23372 1
+1 1 0 0
+5 5 160936 4
+5 5 160936 4
+0 0 0 0
+1 1 0 0
+1 1 0 0
+3 3 2077670 0
+5 5 2291124 2
+3 3 80468 2
+1 1 0 0
+1 1 0 0
+1 0 747 1
+1 1 0 0
+1 1 0 0
+3 3 46744 2
+2 2 23372 1
+5 5 104275 3
+92 46 3532532 33
+1 1 64 0
+0
+0
+0
+105
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+44
+0
+0
+0
+0
+0
+# -urls- 
+/order/2qo/
+0 1 15291488 23372 1 1
+/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js
+0 1 0 1059 0 0
+/gallery
+0 1 15293824 28398 0 0
+/contact-us
+0 1 15293712 21389 0 0
+/wp-admin/load-scripts.php
+0 1 15294400 107242 0 0
+/wp-content/plugins/jetpack/modules/wpgroho.js
+0 1 15295904 1015 0 0
+/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css
+0 1 0 26727 0 0
+/wp-includes/wlwmanifest.xml
+0 1 15294528 1045 0 0
+/wp-admin/load-styles.php
+0 4 15294160 401000 0 0
+/viewer/viewer.js
+0 4 15010608 8310424 0 0
+/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js
+0 1 0 15401 0 0
+/wp-content/plugins/jetpack/modules/shortcodes/js/slideshow-shortcode.js
+0 1 15296992 5890 0 0
+/menu/
+0 2 15008176 122854 1 0
+/order-online
+0 1 15294048 14590 0 0
+/wp-content/themes/twentysixteen/style.css
+0 1 15295040 69779 0 0
+/order/2k4/
+0 2 15291600 46744 2 1
+/wp-includes/js/comment-reply.min.js
+0 1 15294784 1078 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 1 15295312 10056 0 0
+/store
+0 1 15294288 22448 0 0
+/login
+0 1 15293600 19721 0 0
+/wp-content/plugins/jetpack/modules/sso/jetpack-sso-login.js
+0 1 0 1241 0 0
+/wp-login.php
+0 5 15293936 11153 0 0
+/order/1il/
+0 1 15010720 23372 1 1
+/wp-includes/js/jquery/jquery.js
+0 1 15295184 97184 0 0
+/wp-includes/js/wp-embed.min.js
+0 1 15294912 1398 0 0
+/wp-includes/js/wp-emoji-release.min.js
+0 1 15294656 11414 0 0
+/wp-content/plugins/jetpack/modules/photon/photon.js
+0 1 15296368 1378 0 0
+/wp-content/plugins/jetpack/modules/related-posts/related-posts.js
+0 1 0 8157 0 0
+/xmlrpc.php
+0 2 15291712 1287 0 0
+/viewer/viewer.css
+0 3 0 399150 0 0
+/wp-content/plugins/jetpack/modules/sso/jetpack-sso-login.css
+0 1 0 2854 0 0
+/wp-content/themes/twentysixteen/js/functions.js
+0 1 15295616 6820 0 0
+/banner.css
+0 1 0 20641 0 0
+/
+0 25 15027936 1005850 12 4
+/menu
+0 1 15293488 61427 0 0
+/wp-content/plugins/jetpack/css/jetpack.css
+0 1 15295760 64188 0 0
+/order/1jj/
+0 1 15292688 23372 1 0
+/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css
+0 1 0 28266 0 0
+/order/2oq/
+0 1 15009792 23372 1 1
+/robots.txt
+0 5 0 320 0 0
+/order
+0 1 15293280 23372 0 0
+/wp-cron.php
+0 21 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+crawl-66-249-65-177.googlebot.com
+0 4 4 2147722 3 1493675481
+/order/1jj/
+crawl-66-249-65-174.googlebot.com
+0 6 5 91568 4 1493671972
+/order/2k4/
+46-119-112-125.broadband.kyivstar.net
+0 5 5 201170 2 1493686840
+/
+192.0.87.53
+0 1 1 435 0 0
+-
+192.185.36.105
+0 2 2 0 0 0
+-
+178-137-4-41.broadband.kyivstar.net
+0 2 2 80468 2 1493646418
+/
+46-118-115-123.broadband.kyivstar.net
+0 6 6 241404 2 1493673029
+/
+fl-67-232-47-138.dhcp.embarqhsd.net
+0 3 3 2250890 1 1493642533
+/
+46-119-118-191.broadband.kyivstar.net
+0 3 3 120702 2 1493685141
+/
+msnbot-157-55-39-106.search.msn.com
+0 1 1 133050 0 0
+-
+77.123.2.4
+0 1 1 40234 1 1493619907
+/
+msnbot-157-55-39-231.search.msn.com
+0 1 1 61427 1 1493607423
+/menu/
+37-229-253-129.broadband.kyivstar.net
+0 3 3 120702 1 1493620871
+/
+smartscan04.sitelock.com
+0 90 44 3532532 1 1493678280
+-
+msnbot-157-55-39-242.search.msn.com
+0 4 4 2077798 0 0
+-
+wp42.hostgator.com
+0 19 19 0 0 0
+-
+msnbot-157-55-39-28.search.msn.com
+0 1 1 64 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+46-119-112-125.broadband.kyivstar.net
+0 5 5 201170 2 1493686840
+/
+46-119-118-191.broadband.kyivstar.net
+0 2 2 80468 1 1493685141
+/
+wp42.hostgator.com
+0 1 1 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://naberezhnyechelny.zrus.org/
+0 4
+http://www.google.com/url
+0 52
+http://prohoster.info/server/dts-prohoster
+0 3
+http://yoshkarola.zrus.org/
+0 2
+http://mnogabukaff.net/
+0 1
+http://davesboathouse.com/wp-cron.php
+0 21
+http://dvervmoskvu.ru/
+0 2
+- (Direct Request)
+0 55
+https://ascat.porn/
+0 2
+http://elvel.com.ua/girobordy
+0 3
+http://investyb.com/
+0 1
+http://www.davesboathouse.com/
+0 2
+http://davesboathouse.com/xmlrpc.php
+0 1
+http://davesboathouse.com/banner.html
+0 1
+http://vipms.ru/
+0 1
+http://davesboathouse.com/order/2oq/
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.3 (build 01218); .NET CLR 1.1.4322)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.1.4322; PeoplePal 6.2)
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 52
+Jetpack by WordPress.com
+0 1
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 38
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 10
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 7
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; KKman2.0)
+0 4
+WordPress/4.7.4; http://davesboathouse.com
+0 21
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; T312461)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 9.0
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322; FDM)
+0 3
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/28.0.1500.95 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; Powermarks/3.5; Windows 95/98/2000/NT)
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322) Babya Discoverer  8.0:
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

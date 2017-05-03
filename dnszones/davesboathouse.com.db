@@ -1,0 +1,44 @@
+; cPanel first:11.58.0.45 (update_time):1491423783 11.58.0.45: Cpanel::ZoneFile::VERSION:1.3 hostname:gator4092.hostgator.com latest:11.58.0.45
+; Zone file for davesboathouse.com
+$TTL 14400
+@      86400	IN      SOA     ns8183.hostgator.com. dnsadmin.gator4092.hostgator.com. (
+		2017040505	; serial, todays date+todays
+		86400		; refresh, seconds
+		7200		; retry, seconds
+		3600000		; expire, seconds
+		86400 )		; minimum, seconds
+
+davesboathouse.com. 86400 IN NS ns8183.hostgator.com.
+davesboathouse.com. 86400 IN NS ns8184.hostgator.com.
+
+
+davesboathouse.com. IN A 192.185.36.105
+
+localhost.davesboathouse.com. IN A 127.0.0.1
+
+davesboathouse.com. IN MX 0 mail.davesboathouse.com.
+
+mail IN A 192.185.36.105
+www IN CNAME davesboathouse.com.
+ftp IN CNAME davesboathouse.com.
+
+cpanel IN CNAME davesboathouse.com.
+webmail IN CNAME davesboathouse.com.
+
+davesboathouse.com. IN TXT "v=spf1 a mx include:websitewelcome.com ~all"
+webdisk IN A 192.185.36.105
+cpcalendars IN A 192.185.36.105
+cpcontacts IN A 192.185.36.105
+whm IN A 192.185.36.105
+autoconfig IN A 192.185.36.105
+autodiscover IN A 192.185.36.105
+_autodiscover._tcp IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+_caldav._tcp IN SRV 0 0 2079 gator4092.hostgator.com.
+_caldavs._tcp IN SRV 0 0 2080 gator4092.hostgator.com.
+_carddav._tcp IN SRV 0 0 2079 gator4092.hostgator.com.
+_carddavs._tcp IN SRV 0 0 2080 gator4092.hostgator.com.
+_caldav._tcp IN TXT path=/
+_caldavs._tcp IN TXT path=/
+_carddav._tcp IN TXT path=/
+_carddavs._tcp IN TXT path=/
+default._domainkey IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupWiR3MMrRhUPR4ykqPReVdzTtaT/m9rxhFdRGwtyZ7mp8akqKP9ANYAfwSMsLzqZE72qrVAkZ6uLt+Ifu7jnA+7uTVv5e1ZylPviJBxl3bMetJl0er+BGgepolX3yHyBQ/gEgV8qT9JknOhPEJjEazOJmdiEy1Yx27VZMUUd2gAVYUX8V47xYvI7fIrCv3VL" YIk6Wu5L4rTBQXqKvEu1YLJhueAyOZNrXDdA22HdF/aJXjrGRsyxh1S19rCUSR5AEbT4phGtcOR2fPNsakR74dcCToo9yMTxXs4AZ8fw9eZkqzbyruB2GtHkdHQt+nTPzgYRP3XYvzlq9WnQw7NBwIDAQAB\;
